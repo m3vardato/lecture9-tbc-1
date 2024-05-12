@@ -1,0 +1,154 @@
+.container {
+  height: 1500px;
+}
+
+.d2 {
+  display: flex;
+}
+
+.d1 {
+  justify-content: space-between;
+  display: flex;
+}
+
+.h3 {
+  margin-right: 78px;
+  margin-top: 24px;
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.poto1 {
+  margin-left: 99px;
+  margin-top: 24px;
+}
+
+.d3 {
+  margin-top: 18px;
+}
+.poto2 {
+  width: 1519px;
+  height: 606px;
+  position: relative;
+  z-index: 1;
+}
+
+.h2 {
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 79px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  position: relative;
+  z-index: 2;
+  margin-top: -400px;
+  margin-left: 434px;
+}
+
+.h21 {
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+  z-index: 2;
+  margin-left: 580px;
+  margin-bottom: -30px;
+}
+
+.d4 {
+  margin-top: 84px;
+}
+
+.d5 {
+  width: 235px;
+  height: 220px;
+}
+
+.idk {
+  width: 235px;
+  margin-left: 100px;
+}
+
+.hh {
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.hh1 {
+  color: #010101;
+  font-family: Helvetica;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 37px;
+  margin-top: 9px;
+}
+
+.hh2 {
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.idk1 {
+  width: 286px;
+}
+
+.idk2 {
+  width: 286px;
+  margin-right: 150px;
+}
+
+.idk1h1 {
+  color: #343232;
+  font-family: Helvetica;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 9px;
+  margin-bottom: 23px;
+}
+
+.idk1h2 {
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.flexcontainer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 350px;
+}
+
+.flexcontainer1 {
+  margin-left: 390px;
+  display: flex;
+  margin-top: 56px;
+}
+
+.idk3 {
+  margin-left: 61px;
+  margin-right: 61px;
+  width: 286px;
+}
